@@ -3,8 +3,6 @@
 
 Implementation of a web server for [Stable Diffusion Image Generation](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
 
-Author: EPFL Center for Imaging
-
 ## Installing the algorithm server with `pip`
 
 Install dependencies:
